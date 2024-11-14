@@ -37,4 +37,3 @@ backend clickviral-tech-backend
     balance roundrobin
     server 6350-web-01 54.226.104.10:80 check
     server 6350-web-02 44.220.148.235:80 check
-
